@@ -1,0 +1,6 @@
+awscli-local
+awscli
+boto3
+pycrypto
+SQLAlchemy
+psycopg2
